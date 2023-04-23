@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Minecraft Legends Mobs",
+		"description": "Minecraft Legends Mobs Behavior Pack",
+		"uuid": "0bbbd668-a239-1b7c-b4f6-e0f2fb3392e8",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "47984680-3911-34a0-a118-27fa4f17f8e2",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "ea959ec9-7c30-7e66-885a-2c79d8373e81",
+			"version": [1, 0, 0]
+		}
+	]
+}

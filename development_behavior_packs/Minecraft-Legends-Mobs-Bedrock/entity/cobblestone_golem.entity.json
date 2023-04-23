@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "kirbycope:cobblestone_golem",
+			"materials": {
+				"default": "wolf"
+			},
+			"textures": {
+				"default": "textures/entity/cobblestone_golem/cobblestone_golem"
+			},
+			"geometry": {
+				"default": "geometry.cobblestone_golem"
+			},
+			"animations": {
+				"move": "animation.cobblestone_golem.move"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"move": "query.modified_move_speed"
+					}
+				]
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#d0d0d0",
+				"overlay_color": "#5d595b"
+			}
+		}
+	}
+}

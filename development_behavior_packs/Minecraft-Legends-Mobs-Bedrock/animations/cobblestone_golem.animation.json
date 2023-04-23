@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12.0",
+	"animations": {
+		"animation.cobblestone_golem.move": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"leg2": {
+					"rotation": {
+						"0.0": [12.5, 0, 0],
+						"1.0": [-12.5, 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"0.0": [-12.5, 0, 0],
+						"1.0": [12.5, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
