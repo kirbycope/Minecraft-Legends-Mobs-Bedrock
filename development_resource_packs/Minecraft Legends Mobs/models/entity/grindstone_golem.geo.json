@@ -1,0 +1,58 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.grindstone_golem",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [-1, 10.5, -7],
+					"cubes": [
+						{"origin": [-4.5, 4.5, -4.5], "size": [9, 9, 9], "uv": [-5, -5]},
+						{"origin": [-1.5, 7.5, -5.5], "size": [3, 3, 1], "uv": [3, 13]},
+						{"origin": [-1.5, 13.5, -1.5], "size": [3, 1, 3], "uv": [1, 11]},
+						{"origin": [-1.5, 7.5, 4.5], "size": [3, 3, 1], "uv": [3, 13]},
+						{"origin": [-1.5, 3.5, -1.5], "size": [3, 1, 3], "uv": [1, 11]}
+					],
+					"locators": {
+						"lead": [-0.25, 5.5, -4.5]
+					}
+				},
+				{
+					"name": "body",
+					"pivot": [0, 10, 2],
+					"rotation": [90, 0, 0]
+				},
+				{
+					"name": "leg0",
+					"pivot": [-2.5, 8, 7],
+					"cubes": [
+						{"origin": [-6.5, 3, -1.5], "size": [2, 8, 3], "uv": [0, 21]}
+					]
+				},
+				{
+					"name": "leg1",
+					"pivot": [0.5, 8, 7],
+					"cubes": [
+						{"origin": [4.5, 3, -1.5], "size": [2, 8, 3], "uv": [0, 21]}
+					]
+				},
+				{
+					"name": "leg2",
+					"pivot": [-2.5, 8, -4]
+				},
+				{
+					"name": "leg3",
+					"pivot": [0.5, 8, -4]
+				}
+			]
+		}
+	]
+}
