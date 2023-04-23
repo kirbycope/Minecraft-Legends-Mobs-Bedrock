@@ -1,2 +1,4 @@
 entity.kirbycope:plank_golem.name=Plank Golem
 item.spawn_egg.entity.kirbycope:plank_golem.name=Spawn Plank Golem
+entity.kirbycope:cobblestone_golem.name=Cobblestone Golem
+item.spawn_egg.entity.kirbycope:cobblestone_golem.name=Spawn Cobblestone Golem
