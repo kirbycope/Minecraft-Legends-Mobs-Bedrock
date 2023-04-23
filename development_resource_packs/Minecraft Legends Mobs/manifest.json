@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Minecraft Legends Mobs",
+		"description": "Minecraft Legends Mobs Resource Pack",
+		"uuid": "3895ad10-9cd6-a12f-0e99-cfe81dbc0d9a",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Minecraft Legends Mobs",
+			"type": "resources",
+			"uuid": "6d638023-54d8-71d4-0848-df06b5d0ad46",
+			"version": [1, 0, 0]
+		}
+	]
+}
