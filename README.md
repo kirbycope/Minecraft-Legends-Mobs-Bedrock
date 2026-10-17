@@ -4,9 +4,12 @@
 All the mobs from Minecraft Legends in Minecraft Bedrock Edition.
 
 ## Installation
-1. Download the [mcaddon](https://github.com/kirbycope/Minecraft-Legends-Mobs-Bedrock/raw/main/Minecraft-Legends-Mobs-Bedrock.mcaddon)
+1. Download the [mcaddon](https://github.com/kirbycope/Minecraft-Legends-Mobs-Bedrock/releases/latest/download/Minecraft-Legends-Mobs-Bedrock.mcaddon)
 1. Double-click the mcaddon file
 1. Load the Resource and Behaviour packs for your world/save
+
+## Requirements
+Minecraft Bedrock 1.26.0 or newer, with no experiments.
 
 ## Releasing
 Pushing a tag that starts with `v` (for example `git tag v1.0.0 && git push origin v1.0.0`) runs the Release workflow in `.github/workflows/release.yml`, which builds the add-on and attaches `Minecraft-Legends-Mobs-Bedrock.mcaddon` to a GitHub Release.
