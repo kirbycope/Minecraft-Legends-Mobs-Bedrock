@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Minecraft Legends Mobs",
-		"description": "Minecraft Legends Mobs Behavior Pack",
+		"description": "Minecraft Legends Mobs Behavior Pack 1.1.1",
 		"uuid": "df785ff9-3f63-473b-7402-eb88594200ef",
-		"version": [1, 1, 0],
+		"version": [1, 1, 1],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -13,7 +13,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 1, 0],
+			"version": [1, 1, 1],
 			"uuid": "2fccea30-a155-0f98-9943-2a4516164ea3",
 			"type": "data"
 		}
@@ -21,7 +21,7 @@
 	"dependencies": [
 		{
 			"uuid": "3895ad10-9cd6-a12f-0e99-cfe81dbc0d9a",
-			"version": [1, 1, 0]
+			"version": [1, 1, 1]
 		}
 	]
 }
